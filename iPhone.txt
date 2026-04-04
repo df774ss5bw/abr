@@ -4,6 +4,13 @@
 ! telegraaf.nl
 telegraaf.nl##div[class^="html-embed_htmlEmbed"]:has(> #formcontainer)
 telegraaf.nl##a[class*="RelatedTeaser"]
+telegraaf.nl##section[data-testid="storyblock-type-LiveSportsBarGroup"]
+telegraaf.nl##section[id^="news-HtmlGroup"]
+telegraaf.nl##footer
+telegraaf.nl##div[class*="comment-block"]
+telegraaf.nl##section[id*="Voor-jou"]
+telegraaf.nl##section[id*="recirculationBottomEditorial"]
+telegraaf.nl##div[id^="ad_pageend"]
 
 ! nrc.nl
 nrc.nl##a.dmt-article-suggestion
