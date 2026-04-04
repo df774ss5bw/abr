@@ -88,6 +88,8 @@ geenstijl.nl##div.sidebar-content
 geenstijl.nl##div.flex.bg-black:has-text(Over GeenStijl)
 geenstijl.nl##form:has(a#tip)
 geenstijl.nl##div:has(> p:has-text(Linktips))
+geenstijl.nl##div:has(> h2:has-text(Reaguursels))
+geenstijl.nl##div:has(> div > div[data-testid="comment"])
 
 ! fd.nl
 fd.nl##.fd-message
