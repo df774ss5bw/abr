@@ -85,7 +85,7 @@ trouw.nl##div:has(> svg + span > button[title="Geef uw feedback over de site"])
 trouw.nl##div:has(> section[data-test-id="editorial-tips"])
 trouw.nl##div:has(> div > button[title="Delen via Facebook"])
 trouw.nl##footer
-trouw.nl##div > nav > ul > li > a[data-type="bottom_menu"]
+trouw.nl##div:has(> nav > ul > li > a[data-type="bottom_menu"])
 trouw.nl##div[id="mid1"][tabindex="-1"]
 
 ! parool.nl
