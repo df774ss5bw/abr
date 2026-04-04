@@ -16,6 +16,7 @@ telegraaf.nl##div[id^="ad_storyblock"]
 
 ! nrc.nl
 nrc.nl##a.dmt-article-suggestion
+nrc.nl##footer
 
 ! ad.nl
 ad.nl##div[data-temptation-position="OORTJE"]
