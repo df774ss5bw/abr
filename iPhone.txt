@@ -104,7 +104,7 @@ ft.com##li.o-share__action[data-share="twitter"]
 ft.com##li.o-share__action[data-share="facebook"]
 ft.com##li.o-share__action[data-share="linkedin"]
 ft.com##li.o-share__action[data-share="whatsapp"]
-ft.com##aside.n-content-recommended
+ft.com##aside[data-component="recommended"]
 ft.com##div.magnet-cta
 ft.com##div.article-tools
 ft.com##div[data-component="onward-journey__bottom"]
