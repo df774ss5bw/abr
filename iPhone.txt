@@ -110,6 +110,7 @@ ft.com##div.article-tools
 ft.com##div[data-component="onward-journey__bottom"]
 ft.com##div.article-content__concepts
 ft.com##div.comments-container
+ft.com##div.slice__content:has(> header#explore-more-events-from-the-ft)
 ft.com##div.n-layout__row--footer
 
 ! bloomberg.com
