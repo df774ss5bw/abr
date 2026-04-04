@@ -31,8 +31,18 @@ ad.nl##div[aria-label="aanvullende inhoud"]
 ad.nl##div[aria-label="Podcast"]
 ad.nl##div[aria-label="Quizzen"]
 ad.nl##div[aria-label="regio Utrecht"]
+ad.nl##div[data-content-type="GROUP"]
+ad.nl##div[data-content-type="FREE_HTML"]
+ad.nl##div[data-content-type="PARAGRAPH"]:has-text(LUISTER OOK)
+ad.nl##div[data-content-type="PODCAST"]
+ad.nl##div[data-content-type="PARAGRAPH"]:has-text(KIJK OOK)
+ad.nl##div[data-content-type="VIDEO"]
 ad.nl##div[data-content-type="ADVERTISEMENT"]
 ad.nl##div[data-content-type="MARKETING"]
+ad.nl##div[data-content-type="SHARE"]
+ad.nl##div[data-content-type="COMMENTS"]
+ad.nl##div[data-content-type="CROSS_PROMOTION"]
+ad.nl##div[data-content-type="VIDEO_NEWS"]
 
 ! volkskrant.nl
 volkskrant.nl##div.oortje-wrapper[data-test="position-before-list-teaser"]
