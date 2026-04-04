@@ -45,6 +45,7 @@ ad.nl##div[data-content-type="CROSS_PROMOTION"]
 ad.nl##div[data-content-type="VIDEO_NEWS"]
 ad.nl##aside[data-testid="column-right"]
 ad.nl##div[data-content-type="SUBHEADER"]:has-text(Lees meer)
+ad.nl##div.football-sportcenter
 
 ! volkskrant.nl
 volkskrant.nl##div.oortje-wrapper[data-test="position-before-list-teaser"]
