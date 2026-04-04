@@ -46,6 +46,8 @@ volkskrant.nl##div[class*="h1-container"]
 volkskrant.nl##div[title="Aanmelden voor nieuwsbrief"]
 volkskrant.nl##div[tabindex="-1"][aria-hidden="true"]
 volkskrant.nl##aside[data-test-id="temptation-TOP_OF_FOOTER"]
+volkskrant.nl##section[data-test-id="automated-recommendations"]
+volkskrant.nl##div:has(> span[data-test-id="article-label"]:has-text(Dossier))
 
 ! trouw.nl
 trouw.nl##div[tabindex="-1"][data-advert-orig-id^="article_paragraph"]
