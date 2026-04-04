@@ -67,6 +67,20 @@ volkskrant.nl##section[data-test-id="automated-recommendations"]
 volkskrant.nl##div:has(> div > button[title="Delen via Facebook"])
 
 ! trouw.nl
+trouw.nl##div.app-bottom
+trouw.nl##div.app-editor-tip
+trouw.nl##div.app-footer
+trouw.nl##div.app-disclaimer__wrapper
+trouw.nl##div.app-footer-org
+trouw.nl##div[data-test="position-after-main-home"]
+trouw.nl##section[data-section_name="puzzels"]
+trouw.nl##section[data-section_name="cartoons"]
+trouw.nl##section[data-section_name="luister"]
+trouw.nl##section.section-ad-container-wrapper
+trouw.nl##div.oortje-wrapper[data-test="position-before-list-teaser"]
+trouw.nl##div[role="toolbar"][aria-label="Bewaar of deel dit artikel"]
+trouw.nl##aside[data-test-id="temptation-ARTICLE_INLINE_MIDDLE"]
+trouw.nl##div[id^="article_paragraph"][tabindex="-1"]
 
 ! parool.nl
 parool.nl##div.oortje-wrapper[data-test="position-before-list-teaser"]
