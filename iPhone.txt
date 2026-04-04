@@ -22,6 +22,17 @@ nrc.nl##footer
 ad.nl##div[data-temptation-position="OORTJE"]
 ad.nl##li.tile:has(div[class*="advertisement"])
 ad.nl##div[data-content-type="GROUP"]:has(> div > div > p:has-text(Lees ook))
+ad.nl##footer
+ad.nl##div[aria-label="onbekende sectie"]
+ad.nl##div[aria-label="artikelgroep 8"]
+ad.nl##div[aria-label="uitgelicht"]
+ad.nl##article.advertisement
+ad.nl##div[aria-label="aanvullende inhoud"]
+ad.nl##div[aria-label="Podcast"]
+ad.nl##div[aria-label="Quizzen"]
+ad.nl##div[aria-label="regio Utrecht"]
+ad.nl##div[data-content-type="ADVERTISEMENT"]
+ad.nl##div[data-content-type="MARKETING"]
 
 ! volkskrant.nl
 volkskrant.nl##div.oortje-wrapper[data-test="position-before-list-teaser"]
