@@ -78,6 +78,9 @@ nos.nl##section[data-sentry-component="Sport"]
 nos.nl##section[data-sentry-component="Region"]
 nos.nl##section[data-sentry-component="LiveSection"]
 nos.nl##div[class*="Frontpage_rightContent"]
+nos.nl##div[data-tracking*="nestId1=bekijk-ook"]
+nos.nl##div[data-sentry-element="MetaFooterContainer"]
+nos.nl##div[data-sentry-element="WideContainer"]
 nos.nl##footer
 
 ! at5.nl
