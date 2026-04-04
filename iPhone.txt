@@ -79,6 +79,9 @@ parool.nl##div[id^="article_paragraph"][tabindex="-1"]
 geenstijl.nl##article:has-text(Ingezonden mededeling)
 geenstijl.nl##form[action="https://doneer.geenstijl.nl/"]
 geenstijl.nl##div:has(> p > a[href^="https://www.geenstijl.nl/#premium"])
+geenstijl.nl##div.fixed.z-50.cursor-pointer
+geenstijl.nl##div.fixed.inset-0.bg-black\/30
+geenstijl.nl##div.fixed[class*="z-[2147483646]"]
 
 ! fd.nl
 fd.nl##.fd-message
