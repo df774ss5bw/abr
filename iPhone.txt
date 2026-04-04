@@ -87,6 +87,7 @@ trouw.nl##div:has(> div > button[title="Delen via Facebook"])
 trouw.nl##footer
 trouw.nl##div:has(> nav > ul > li > a[data-type="bottom_menu"])
 trouw.nl##div[id="mid1"][tabindex="-1"]
+trouw.nl##div[role="dialog"][aria-labelledby="settings-menu"]
 
 ! parool.nl
 parool.nl##div.oortje-wrapper[data-test="position-before-list-teaser"]
