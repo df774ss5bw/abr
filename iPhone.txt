@@ -83,6 +83,11 @@ geenstijl.nl##div.fixed.z-50.cursor-pointer
 geenstijl.nl##div.fixed.inset-0.bg-black\/30
 geenstijl.nl##div.fixed[class*="z-[2147483646]"]
 geenstijl.nl##div.fixed.bottom-0.w-full.bg-black.z-50
+geenstijl.nl##div:has(> h4:has-text(Dit wil je ook lezen))
+geenstijl.nl##div.sidebar-content
+geenstijl.nl##div.flex.bg-black:has-text(Over GeenStijl)
+geenstijl.nl##form:has(a#tip)
+geenstijl.nl##div:has(> p:has-text(Linktips))
 
 ! fd.nl
 fd.nl##.fd-message
