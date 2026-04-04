@@ -82,6 +82,7 @@ geenstijl.nl##div:has(> p > a[href^="https://www.geenstijl.nl/#premium"])
 geenstijl.nl##div.fixed.z-50.cursor-pointer
 geenstijl.nl##div.fixed.inset-0.bg-black\/30
 geenstijl.nl##div.fixed[class*="z-[2147483646]"]
+geenstijl.nl##div.fixed.bottom-0.w-full.bg-black.z-50
 
 ! fd.nl
 fd.nl##.fd-message
