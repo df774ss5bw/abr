@@ -1,0 +1,99 @@
+! iPhone
+! ======
+
+! telegraaf.nl
+telegraaf.nl##div[class^="html-embed_htmlEmbed"]:has(> #formcontainer)
+telegraaf.nl##a[class*="RelatedTeaser"]
+
+! nrc.nl
+nrc.nl##a.dmt-article-suggestion
+
+! ad.nl
+ad.nl##div[data-temptation-position="OORTJE"]
+ad.nl##li.tile:has(div[class*="advertisement"])
+ad.nl##div[data-content-type="GROUP"]:has(> div > div > p:has-text(Lees ook))
+
+! volkskrant.nl
+volkskrant.nl##div.oortje-wrapper[data-test="position-before-list-teaser"]
+volkskrant.nl##section.section-ad-container-wrapper
+volkskrant.nl##div[id^="article_paragraph"][tabindex="-1"]
+volkskrant.nl##div.section-ad-container
+volkskrant.nl##div[tabindex="-1"][aria-hidden="true"]
+volkskrant.nl##aside[data-test-id="temptation-OORTJE"]
+volkskrant.nl##aside[data-test-id="temptation-TOP_OF_FOOTER"]
+volkskrant.nl##div:has(> span:has-text(Help ons door uw ervaring te delen))
+volkskrant.nl##div[title="Aanmelden voor nieuwsbrief"]
+
+! trouw.nl
+
+! parool.nl
+parool.nl##div.oortje-wrapper[data-test="position-before-list-teaser"]
+parool.nl##div[tabindex="-1"][data-advert-orig-id^="article_paragraph"]
+parool.nl##aside[data-test-id="temptation-ARTICLE_INLINE_MIDDLE"]
+parool.nl##aside[data-module="temptation-module"]
+parool.nl##.marketing-banner
+parool.nl##section.section-ad-container-wrapper
+parool.nl##div[id^="article_paragraph"][tabindex="-1"]
+
+! bd.nl
+
+! nos.nl
+
+! at5.nl
+
+! geenstijl.nl
+geenstijl.nl##article:has-text(Ingezonden mededeling)
+geenstijl.nl##form[action="https://doneer.geenstijl.nl/"]
+geenstijl.nl##div:has(> p > a[href^="https://www.geenstijl.nl/#premium"])
+
+! fd.nl
+fd.nl##.fd-message
+fd.nl##div[class*="fd-read-more"]
+
+! ft.com
+
+! bloomberg.com
+
+! wsj.com
+
+! zerohedge.com
+
+! nytimes.com
+nytimes.com##div:has([data-testid="StandardAd"])
+nytimes.com##section[data-testid="inline-interactive"]:has-text(Got a Tip?)
+nytimes.com##div[id*="story-ad"]
+nytimes.com##div[data-testid="region"]#NYT_ABOVE_MAIN_CONTENT_REGION
+nytimes.com##div.related-links-block
+nytimes.com##section#masthead-bar-one
+
+! washingtonpost.com
+
+! thetimes.com
+
+! theguardian.com
+
+! scmp.com
+
+! economist.com
+
+! foreignaffairs.com
+
+! hbr.org
+
+! technologyreview.com
+
+! monocle.com
+
+! nature.com
+
+! nybooks.com
+
+! aeon.co
+
+! adformatie.nl
+
+! fonkmagazine.nl
+
+! marketingtribune.nl
+
+! adage.com

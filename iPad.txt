@@ -1,0 +1,139 @@
+! iPad
+! ====
+
+! telegraaf.nl
+telegraaf.nl##div[class*="takeoverAdContainer"]
+telegraaf.nl##div[class*="leadingAdContainer"]
+telegraaf.nl##div[class*="htmlEmbed"]
+telegraaf.nl##a[class*="RelatedTeaser"]
+telegraaf.nl##aside
+telegraaf.nl##footer[class*="footer"]
+telegraaf.nl##div[id*="ad_inline"]
+telegraaf.nl##article[data-theme-sponsored-content]
+telegraaf.nl##section[id*="Voor-jou"]
+telegraaf.nl##div[class*="comment-block"]
+
+! nrc.nl
+nrc.nl##a.dmt-article-suggestion
+nrc.nl##footer.footer
+
+! ad.nl
+ad.nl##footer
+ad.nl##div[class*="dfp-space"]
+ad.nl##div[class*="widget-shop"]
+ad.nl##div[data-content-type="PARAGRAPH"]:has-text(LUISTER OOK)
+ad.nl##div[data-content-type="PARAGRAPH"]:has-text(KIJK OOK)
+ad.nl##div[data-testid="entertainment-video"]
+ad.nl##div[data-content-type="PODCAST"]
+ad.nl##div[data-content-type="MARKETING"]
+ad.nl##div[data-content-type="SHARE"]
+ad.nl##div[data-content-type="ADVERTISEMENT"]
+ad.nl##div[data-content-type="SUBHEADER"]:has-text(Lees meer)
+ad.nl##div[data-content-type="CROSS_PROMOTION"]
+ad.nl##div[data-content-type="VIDEO"]
+ad.nl##div[data-content-type="VIDEO_NEWS"]
+ad.nl##div[data-content-type="COMMENTS"]
+ad.nl##div[data-content-type="FREE_HTML"]
+ad.nl##aside
+ad.nl##div[data-content-type="POLL"]
+ad.nl##div[data-content-type="GROUP"]
+
+! volkskrant.nl
+volkskrant.nl##aside[data-test-id="temptation-OORTJE"]
+volkskrant.nl##section[data-test-id="editorial-tips"]
+volkskrant.nl##footer
+volkskrant.nl##div[class*="h1-container"]
+volkskrant.nl##div[title="Aanmelden voor nieuwsbrief"]
+volkskrant.nl##div[tabindex="-1"][aria-hidden="true"]
+volkskrant.nl##aside[data-test-id="temptation-TOP_OF_FOOTER"]
+
+! trouw.nl
+trouw.nl##div[tabindex="-1"][data-advert-orig-id^="article_paragraph"]
+trouw.nl##div[tabindex="-1"][id^="article_paragraph"]
+trouw.nl##aside[data-test-id="temptation-ARTICLE_INLINE_MIDDLE"]
+trouw.nl##aside[data-module="temptation-module"]
+trouw.nl##.marketing-banner
+
+! parool.nl
+parool.nl##div[tabindex="-1"][data-advert-orig-id^="article_paragraph"]
+parool.nl##aside[data-test-id="temptation-ARTICLE_INLINE_MIDDLE"]
+parool.nl##aside[data-module="temptation-module"]
+parool.nl##.marketing-banner
+
+! bd.nl
+
+! nos.nl
+
+! at5.nl
+
+! geenstijl.nl
+geenstijl.nl##aside
+geenstijl.nl##div.grid-cols-\[minmax\(0\,1fr\)_377px\]:style(grid-template-columns: 1fr !important;)
+geenstijl.nl##div.ad-wrapper
+
+! fd.nl
+fd.nl##.fd-message
+
+! ft.com
+ft.com##div.slot-wrapper
+ft.com##div.magnet-cta
+
+! bloomberg.com
+www.bloomberg.com##div[class*="inlineNewsletter_inline-newsletter"]
+
+! wsj.com
+wsj.com##div.uds-ad-container
+
+! zerohedge.com
+
+! nytimes.com
+nytimes.com##div[data-testid^="Dropzone-"]
+nytimes.com###app > div:first-child
+nytimes.com##div:has(> [data-testid="StandardAd"])
+
+! washingtonpost.com
+
+! thetimes.com
+thetimes.com##div.inline-article-ad
+
+! theguardian.com
+
+! scmp.com
+
+! economist.com
+
+! foreignaffairs.com
+www.foreignaffairs.com##div[class*="article-newsletter-signup"]
+
+! hbr.org
+hbr.org##div[data-testid="ad-container"]
+hbr.org##div[class*="ad-container"][class*="Header"]
+hbr.org##section[class*="Ad-module"]
+hbr.org##div[data-testid="adContainer"]
+
+! technologyreview.com
+
+! monocle.com
+
+! nature.com
+
+! nybooks.com
+
+! aeon.co
+
+! adformatie.nl
+adformatie.nl##ul.mb-7
+adformatie.nl##article.c-teaser--theme-commercial
+adformatie.nl##.c-vacancy-list-item
+adformatie.nl##h2:has-text("Gerelateerd")
+adformatie.nl##h2:has-text("Vacatures")
+adformatie.nl##div.c-ad-slot
+adformatie.nl##div.col--span-12.d-md-flex:has(> div.d-lg-none > h2.mt-3)
+
+! fonkmagazine.nl
+
+! marketingtribune.nl
+
+! adage.com
+adage.com##p.c-paragraph:has(mark.hl_yellow)
+adage.com##p.c-paragraph:has-text("Also read:")

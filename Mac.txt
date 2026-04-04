@@ -1,0 +1,177 @@
+! Mac
+! ===
+
+! telegraaf.nl
+telegraaf.nl##div[id*="ad_inline"]
+telegraaf.nl##div[id*="ad_abovehero"]
+telegraaf.nl##a[class*="RelatedTeaser"]
+telegraaf.nl##.quiz-page
+||timepath.co^$third-party,domain=telegraaf.nl
+telegraaf.nl##div[id="formcontainer"]
+telegraaf.nl##section[data-testid="storyblock-type-HtmlGroup"]
+telegraaf.nl##footer
+telegraaf.nl##div[class*="AsideRecirculation"]
+telegraaf.nl##div[class*="htmlEmbed"]
+telegraaf.nl##section[id*="Voor-jou"]
+telegraaf.nl##div[class*="comment-block"]
+
+! nrc.nl
+
+! ad.nl
+ad.nl##div[aria-label="onbekende sectie"]
+ad.nl##footer
+ad.nl##aside[data-testid="column-right"]
+ad.nl##div[data-content-type="GROUP"]
+ad.nl##div[data-content-type="FREE_HTML"]
+ad.nl##div[data-content-type="PARAGRAPH"]:has-text(LUISTER OOK)
+ad.nl##div[data-content-type="PODCAST"]
+ad.nl##div[data-content-type="PARAGRAPH"]:has-text(KIJK OOK)
+ad.nl##div[data-content-type="VIDEO"]
+ad.nl##div[data-content-type="MARKETING"]
+ad.nl##div[data-content-type="ADVERTISEMENT"]
+ad.nl##div[data-content-type="SHARE"]
+ad.nl##div[data-content-type="COMMENTS"]
+ad.nl##div[data-content-type="CROSS_PROMOTION"]
+ad.nl##div[data-content-type="VIDEO_NEWS"]
+
+! volkskrant.nl
+volkskrant.nl##aside[data-test-id="temptation-OORTJE"]
+volkskrant.nl##aside[data-test-id="temptation-TOP_OF_FOOTER"]
+volkskrant.nl##div[title="Aanmelden voor nieuwsbrief"]
+volkskrant.nl##footer
+volkskrant.nl##section[data-test-id="automated-recommendations"]
+volkskrant.nl##div[tabindex="-1"][aria-hidden="true"]
+
+! trouw.nl
+trouw.nl##div[data-pexi-template="DEF_ENGAGE_NEWSLETTER_OPTIN_ARTICLE_INLINE_MIDDLE_TR"]
+trouw.nl##div[tabindex="-1"][id^="article_paragraph"]
+trouw.nl##div[class*="app-editor-tip"]
+trouw.nl##div[class*="app-footer"]
+trouw.nl##div[class*="app-disclaimer"]
+trouw.nl##div[class*="app-footer-org"]
+trouw.nl##div[data-test="position-after-main-home"]
+trouw.nl##aside[data-test-id="temptation-ARTICLE_INLINE_MIDDLE"]
+trouw.nl##span:has-text(Help ons door uw ervaring te delen)
+trouw.nl##section[data-test-id="editorial-tips"]
+trouw.nl##section[data-test-id="automated-recommendations"]
+trouw.nl##div[id="mid1"][tabindex="-1"][aria-hidden="true"]
+trouw.nl##footer
+
+! parool.nl
+parool.nl##div[data-pexi-template="DEF_ENGAGE_NEWSLETTER_OPTIN_ARTICLE_INLINE_MIDDLE_HP"]
+parool.nl##div[data-test="position-before-list-teaser"]
+parool.nl##div[class*="app-editor-tip"]
+parool.nl##div[class*="app-footer"]
+parool.nl##div[class*="app-disclaimer"]
+parool.nl##div[class*="app-footer-org"]
+parool.nl##aside[data-test-id="temptation-ARTICLE_INLINE_MIDDLE"]
+parool.nl##iframe[title="Politieke push"]
+parool.nl##span:has-text(Help ons door uw ervaring te delen)
+parool.nl##section[data-test-id="automated-recommendations"]
+parool.nl##aside[data-test-id="temptation-ARTICLE_BOTTOM"]
+parool.nl##div[id="mid1"][tabindex="-1"][aria-hidden="true"]
+parool.nl##footer
+
+! bd.nl
+
+! nos.nl
+
+! at5.nl
+www.at5.nl##.BrowserPushPopup_popupContentWrap__18HRJ
+www.at5.nl##.BrowserPushPopup-module-scss-module__IpTeka__popupContentWrap
+www.at5.nl##div[class*="adWrapper"]
+www.at5.nl##div[class*="rightAd"]
+www.at5.nl##section[class*="Advertisement-module"]
+www.at5.nl##div[class*="article-module"][class*="share"]
+www.at5.nl##div[class*="article-block-module"][class*="articles"]
+www.at5.nl##div[class*="article-block-module"][class*="info"]
+www.at5.nl##div[class*="article-module"][class*="childrenGrid"]
+www.at5.nl##footer
+
+! geenstijl.nl
+geenstijl.nl##aside
+geenstijl.nl##div.grid-cols-\[minmax\(0\,1fr\)_377px\]:style(grid-template-columns: 1fr !important;)
+geenstijl.nl##img[alt="achtergrond"]
+geenstijl.nl##form[action="https://doneer.geenstijl.nl/"]
+
+! fd.nl
+fd.nl##.social-quote
+fd.nl##div.fd-message:nth-of-type(1)
+fd.nl##div[id="section-mijn-nieuws"]
+fd.nl##div[id="section-newsletters"]
+fd.nl##footer
+fd.nl##section[class*="verticalToolbar"]
+fd.nl##div[class*="fd-card-latest-news"]
+fd.nl##div[class*="fd-read-more"]
+fd.nl##section[class*="fd-article-topics"]
+fd.nl##section[class*="social-buttons"]
+fd.nl##div[class*="fd-related-articles"]
+
+! ft.com
+ft.com##div[class*="slot-wrapper"]
+ft.com##div[class*="n-layout__row--footer"]
+ft.com##div[data-trackable="share | top"]
+ft.com##div[data-trackable="telegram-cta"]
+ft.com##aside[class*="n-content-recommended"]
+ft.com##div[class*="magnet-cta"]
+ft.com##div[class*="article-tools"]
+ft.com##div[data-component="article-rhr"]
+ft.com##div[data-component="onward-journey__bottom"]
+ft.com##div[class*="article-content__concepts"]
+ft.com##div[class*="comments-container"]
+ft.com##div[class*="comments-rhr"]
+
+! bloomberg.com
+www.bloomberg.com##div[data-component="grid-module"]
+www.bloomberg.com##div[data-component="footer"]
+www.bloomberg.com##div[data-component="social-share"]
+www.bloomberg.com##div[class*="basicLeftRail_bottom"]
+www.bloomberg.com##div[class*="AuthorBio"]
+www.bloomberg.com##div[class*="TerminalTout"]
+
+! wsj.com
+
+! zerohedge.com
+www.zerohedge.com##.sidebar-left.SidebarLeft_container__pvl7d
+www.zerohedge.com##.SidebarRight_container__k0r8J
+www.zerohedge.com##.smrt-leaderboard-container
+www.zerohedge.com##.MMWidgetFeb12_container__3UvjX.MMWidgetFeb12_desktop__MDbTp > .MMWidgetFeb12_link__dk3wb > .MMWidgetFeb12_image__guE_H
+www.zerohedge.com##.sidebar-left.SidebarLeft_container__5EyEw
+www.zerohedge.com##.SidebarRight_container__mTgfh
+www.zerohedge.com##.SponsoredPost_nonStickyContainer__Aj7r_
+
+! nytimes.com
+
+! washingtonpost.com
+
+! thetimes.com
+
+! theguardian.com
+
+! scmp.com
+www.scmp.com##.css-no538s.endoxya4
+
+! economist.com
+
+! foreignaffairs.com
+foreignaffairs.com##div.article-newsletter-signup--container
+
+! hbr.org
+
+! technologyreview.com
+
+! monocle.com
+
+! nature.com
+
+! nybooks.com
+
+! aeon.co
+
+! adformatie.nl
+
+! fonkmagazine.nl
+
+! marketingtribune.nl
+
+! adage.com
