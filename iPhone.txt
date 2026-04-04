@@ -83,12 +83,14 @@ geenstijl.nl##div.fixed.z-50.cursor-pointer
 geenstijl.nl##div.fixed.inset-0.bg-black\/30
 geenstijl.nl##div.fixed[class*="z-[2147483646]"]
 geenstijl.nl##div.fixed.bottom-0.w-full.bg-black.z-50
-geenstijl.nl##div:has(> h4:has-text(Dit wil je ook lezen))
+geenstijl.nl##div.mt-5.py-5.pl-5:has(h4:has-text(Dit wil je ook lezen))
 geenstijl.nl##div.sidebar-content
-geenstijl.nl##div.flex.bg-black:has-text(Over GeenStijl)
+geenstijl.nl##div.flex.bg-black.py-5:has-text(Over GeenStijl)
 geenstijl.nl##form:has(a#tip)
-geenstijl.nl##div:has(> p:has-text(Linktips))
-geenstijl.nl##div:has(> h2:has-text(Reaguursels))
+geenstijl.nl##div.py-2.text-stone-400.bg-black
+geenstijl.nl##div.sticky.bg-black:has(h2:has-text(Reaguursels))
+geenstijl.nl##div.flex.bg-black:has-text(GS Magenta)
+geenstijl.nl##aside.p-5
 geenstijl.nl##div:has(> div > div[data-testid="comment"])
 geenstijl.nl##div:has(> a[data-testid="share-facebook"])
 
