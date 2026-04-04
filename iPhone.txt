@@ -55,7 +55,7 @@ volkskrant.nl##div.section-ad-container
 volkskrant.nl##div[tabindex="-1"][aria-hidden="true"]
 volkskrant.nl##aside[data-test-id="temptation-OORTJE"]
 volkskrant.nl##aside[data-test-id="temptation-TOP_OF_FOOTER"]
-volkskrant.nl##div:has(> span:has-text(Help ons door uw ervaring te delen))
+volkskrant.nl##div:has(> svg + span > button[title="Geef uw feedback over de site"])
 volkskrant.nl##div[title="Aanmelden voor nieuwsbrief"]
 volkskrant.nl##footer
 volkskrant.nl##div > nav > ul > li > a[data-type="bottom_menu"]
@@ -65,7 +65,6 @@ volkskrant.nl##div[role="toolbar"][aria-label="Bewaar of deel dit artikel"]
 volkskrant.nl##section[data-test-id="editorial-tips"]
 volkskrant.nl##section[data-test-id="automated-recommendations"]
 volkskrant.nl##div:has(> div > button[title="Delen via Facebook"])
-volkskrant.nl##div > span:has-text(Help ons door uw ervaring te delen)
 
 ! trouw.nl
 
