@@ -82,6 +82,7 @@ trouw.nl##div[role="toolbar"][aria-label="Bewaar of deel dit artikel"]
 trouw.nl##aside[data-test-id="temptation-ARTICLE_INLINE_MIDDLE"]
 trouw.nl##div[id^="article_paragraph"][tabindex="-1"]
 trouw.nl##div:has(> svg + span > button[title="Geef uw feedback over de site"])
+trouw.nl##div:has(> section[data-test-id="editorial-tips"])
 
 ! parool.nl
 parool.nl##div.oortje-wrapper[data-test="position-before-list-teaser"]
