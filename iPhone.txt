@@ -90,6 +90,7 @@ geenstijl.nl##form:has(a#tip)
 geenstijl.nl##div:has(> p:has-text(Linktips))
 geenstijl.nl##div:has(> h2:has-text(Reaguursels))
 geenstijl.nl##div:has(> div > div[data-testid="comment"])
+geenstijl.nl##div:has(> a[data-testid="share-facebook"])
 
 ! fd.nl
 fd.nl##.fd-message
