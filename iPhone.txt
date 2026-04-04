@@ -73,6 +73,7 @@ parool.nl##div[id^="article_paragraph"][tabindex="-1"]
 
 ! nos.nl
 nos.nl##a[data-tracking*="elementId=live"]
+nos.nl##a[data-tracking*="elementId=sport.voorpagina"]
 nos.nl##section[data-sentry-component="Sport"]
 nos.nl##section[data-sentry-component="Region"]
 nos.nl##section[data-sentry-component="LiveSection"]
