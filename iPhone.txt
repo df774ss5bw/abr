@@ -120,6 +120,7 @@ parool.nl##section[data-test-id="editorial-tips"]
 parool.nl##div:has(> div > section[data-test-id="automated-recommendations"])
 parool.nl##div:has(> div > button[title="Delen via Facebook"])
 parool.nl##footer
+parool.nl##div:has(> aside:has-text(Studenten lezen Het Parool gratis))
 parool.nl##aside[data-test-id="temptation-PAGE_BOTTOM"]
 
 ! bd.nl
