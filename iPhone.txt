@@ -15,6 +15,7 @@ telegraaf.nl##div[id^="ad_inline"]
 telegraaf.nl##div[id^="ad_storyblock"]
 
 ! nrc.nl
+nrc.nl##div.dmt-header__util-bar
 nrc.nl##a.dmt-article-suggestion
 nrc.nl##footer
 
@@ -58,10 +59,12 @@ volkskrant.nl##aside[data-test-id="temptation-TOP_OF_FOOTER"]
 volkskrant.nl##div:has(> svg + span > button[title="Geef uw feedback over de site"])
 volkskrant.nl##div[title="Aanmelden voor nieuwsbrief"]
 volkskrant.nl##footer
-volkskrant.nl##div > nav > ul > li > a[data-type="bottom_menu"]
+volkskrant.nl##div:has(> nav > ul > li > a[data-type="bottom_menu"])
 volkskrant.nl##div:has(> div > div > div > div > div[data-list="Homepage.Recensies"])
 volkskrant.nl##div:has(> div > div > h2 > a[href="https://www.volkskrant.nl/puzzels/"])
 volkskrant.nl##div[role="toolbar"][aria-label="Bewaar of deel dit artikel"]
+volkskrant.nl##div[role="dialog"][aria-labelledby="settings-menu"]
+volkskrant.nl##aside[data-test-id="temptation-PAGE_BOTTOM"]
 volkskrant.nl##section[data-test-id="editorial-tips"]
 volkskrant.nl##section[data-test-id="automated-recommendations"]
 volkskrant.nl##div:has(> div > button[title="Delen via Facebook"])
@@ -97,6 +100,25 @@ parool.nl##aside[data-module="temptation-module"]
 parool.nl##.marketing-banner
 parool.nl##section.section-ad-container-wrapper
 parool.nl##div[id^="article_paragraph"][tabindex="-1"]
+parool.nl##div.app-bottom
+parool.nl##div.app-footer-org
+parool.nl##div.app-disclaimer__wrapper
+parool.nl##div.app-footer__wrapper
+parool.nl##div.app-editor-tip__wrapper
+parool.nl##aside.app-menu--right
+parool.nl##aside.app-menu--left
+parool.nl##div[data-test="position-after-main-home"]
+parool.nl##section[data-section_name="Strips"]
+parool.nl##section[data-section_name="Over Het Parool"]
+parool.nl##section[data-section_name="Puzzels"]
+parool.nl##section[data-section_name="Luister"]
+parool.nl##section[data-section_name="Sport"]
+parool.nl##div[role="toolbar"][aria-label="Bewaar of deel dit artikel"]
+parool.nl##div:has(> svg + span > button[title="Geef uw feedback over de site"])
+parool.nl##section[data-test-id="editorial-tips"]
+parool.nl##div:has(> div > button[title="Delen via Facebook"])
+parool.nl##footer
+parool.nl##aside[data-test-id="temptation-PAGE_BOTTOM"]
 
 ! bd.nl
 
