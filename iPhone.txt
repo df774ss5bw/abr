@@ -117,6 +117,7 @@ parool.nl##section[data-section_name="Sport"]
 parool.nl##div[role="toolbar"][aria-label="Bewaar of deel dit artikel"]
 parool.nl##div:has(> svg + span > button[title="Geef uw feedback over de site"])
 parool.nl##section[data-test-id="editorial-tips"]
+parool.nl##div:has(> div > section[data-test-id="automated-recommendations"])
 parool.nl##div:has(> div > button[title="Delen via Facebook"])
 parool.nl##footer
 parool.nl##aside[data-test-id="temptation-PAGE_BOTTOM"]
