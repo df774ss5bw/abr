@@ -135,6 +135,14 @@ nos.nl##div[data-sentry-element="WideContainer"]
 nos.nl##footer
 
 ! at5.nl
+at5.nl##section[class*="Advertisement"]
+at5.nl##section#themes
+at5.nl##footer
+at5.nl##div[class*="adContainer"]
+at5.nl##div[class*="article_share"]
+at5.nl##div[class*="childrenGrid"]
+at5.nl##div:has(> div > div > h2:has-text(Lees ook))
+at5.nl##div:has(> div > div > div > p:has-text(Whatsapp ons))
 
 ! geenstijl.nl
 geenstijl.nl##article:has-text(Ingezonden mededeling)
