@@ -13,6 +13,7 @@ telegraaf.nl##section[id*="recirculationBottomEditorial"]
 telegraaf.nl##div[id^="ad_pageend"]
 telegraaf.nl##div[id^="ad_inline"]
 telegraaf.nl##div[id^="ad_storyblock"]
+telegraaf.nl##div[class*="article-hero-block_actions"]
 
 ! nrc.nl
 nrc.nl##div.dmt-header__util-bar
@@ -34,9 +35,9 @@ ad.nl##div[aria-label="Quizzen"]
 ad.nl##div[aria-label="regio Utrecht"]
 ad.nl##div[data-content-type="GROUP"]
 ad.nl##div[data-content-type="FREE_HTML"]
-! ad.nl##div[data-content-type="PARAGRAPH"]:has-text(LUISTER OOK)
+ad.nl##div[data-content-type="PARAGRAPH"]:has-text(LUISTER OOK)
 ad.nl##div[data-content-type="PODCAST"]
-! ad.nl##div[data-content-type="PARAGRAPH"]:has-text(KIJK OOK)
+ad.nl##div[data-content-type="PARAGRAPH"]:has-text(KIJK OOK)
 ad.nl##div[data-content-type="VIDEO"]
 ad.nl##div[data-content-type="ADVERTISEMENT"]
 ad.nl##div[data-content-type="MARKETING"]
