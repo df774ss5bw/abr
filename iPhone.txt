@@ -69,6 +69,8 @@ volkskrant.nl##aside[data-test-id="temptation-PAGE_BOTTOM"]
 volkskrant.nl##section[data-test-id="editorial-tips"]
 volkskrant.nl##section[data-test-id="automated-recommendations"]
 volkskrant.nl##div:has(> div > button[title="Delen via Facebook"])
+volkskrant.nl##nav[aria-label="Hoofd subnavigatie"]
+volkskrant.nl##div[data-advert-orig-id]
 
 ! trouw.nl
 trouw.nl##div.app-bottom
@@ -216,6 +218,10 @@ www.bloomberg.com##div[class*="BasicContent_bookmarkBottom"]
 www.bloomberg.com##div[class*="BasicContent_shareFeedbackWrapper"]
 
 ! wsj.com
+wsj.com##nav-hat
+wsj.com##div#lazy-load-footer
+wsj.com##div[data-testid="utility-wrapper"]
+wsj.com##div[aria-label="What To Read Next"]
 
 ! zerohedge.com
 
