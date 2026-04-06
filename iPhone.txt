@@ -129,6 +129,9 @@ parool.nl##div:has(> p > strong:has-text(Whatsapp ons!))
 parool.nl##div[class*="article-block_articles"]:has-text(Lees ook)
 parool.nl##nav:has(a[data-type="bottom_menu"])
 parool.nl##aside[data-test-id="temptation-PAGE_BOTTOM"]
+parool.nl##iframe[title="Parool Podcast"]
+parool.nl##p:has-text(Luister ook naar de Parool Podcast)
+parool.nl##div[data-article-element-index]:has(> aside)
 
 ! bd.nl
 
