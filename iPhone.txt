@@ -279,6 +279,8 @@ theguardian.com##gu-island[name="SlotBodyEnd"]
 theguardian.com##gu-island[name="OnwardsUpper"]
 theguardian.com##div:has(> span:has-text(Explore more on these topics))
 theguardian.com##div[class*="content-footer"]
+theguardian.com##a[data-link-name="meta-syndication-article"]
+theguardian.com##h2:has-text(Most viewed)
 
 ! scmp.com
 
