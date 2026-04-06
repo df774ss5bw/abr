@@ -210,6 +210,16 @@ thetimes.com##p:has(a[href*="link.thetimes.co.uk/join"])
 thetimes.com##div:has(> span:has-text(PROMOTED CONTENT))
 thetimes.com##footer.GlobalFooter
 thetimes.com##section:has(a[href="https://www.thetimes.com/puzzles"])
+thetimes.com##div.article-share-buttons
+thetimes.com##ul.wp-block-list
+thetimes.com##div.inline-article-ad
+thetimes.com##nav[aria-label="breadcrumbs"]
+thetimes.com##div.article-topics
+thetimes.com##div.tm-related-articles
+thetimes.com##div.article-promoted-content
+thetimes.com##div.article-comments
+thetimes.com##div#zephr__subscription_offer_modal
+thetimes.com##footer.wp-block-template-part
 
 ! theguardian.com
 
