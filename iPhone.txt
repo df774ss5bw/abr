@@ -199,6 +199,8 @@ ft.com##div.article-content__concepts
 ft.com##div.comments-container
 ft.com##div.slice__content:has(> header#explore-more-events-from-the-ft)
 ft.com##form[data-myft-ui-variant="followPlusInstantAlerts"]
+ft.com##a#o-comments-count
+ft.com##button.article-print
 ft.com##div.n-layout__row--footer
 
 ! bloomberg.com
