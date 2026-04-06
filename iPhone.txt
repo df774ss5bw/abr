@@ -325,6 +325,11 @@ adformatie.nl##div:has(> h3:has-text(Nieuwe vacatures))
 adformatie.nl##div:has(> div[class*="b-newsletter-subscribe"])
 adformatie.nl##footer[class*="b-site-footer"]
 adformatie.nl##div:has(> h2:has-text(Gerelateerd))
+adformatie.nl##div[class*="d-md-none"]:has(> h2:has-text(Gerelateerd))
+adformatie.nl##div[class*="d-md-none"]:has(> h2:has-text(Vacatures))
+adformatie.nl##div[class*="c-social-menu"]
+adformatie.nl##div[id="block-reaction-field"]
+adformatie.nl##div[class*="d-md-none"]:has(article[class*="c-teaser"])
 
 ! fonkmagazine.nl
 
