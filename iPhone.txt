@@ -239,6 +239,7 @@ zerohedge.com##div.bottom-banner-container
 zerohedge.com##div[class*="SocialSharingButtons"]
 zerohedge.com##div.article-recommendation-wrapper
 zerohedge.com##div.article-bottom.adv
+zerohedge.com##div[class*="BlockComments"]
 
 ! nytimes.com
 nytimes.com##div:has([data-testid="StandardAd"])
