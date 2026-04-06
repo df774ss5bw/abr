@@ -98,6 +98,17 @@ nytimes.com##div:has(> [data-testid="StandardAd"])
 
 ! thetimes.com
 thetimes.com##div.inline-article-ad
+thetimes.com##div.article-share-buttons
+thetimes.com##div.wc-newsletter-puff
+thetimes.com##ul.wp-block-list
+thetimes.com##nav[aria-label="breadcrumbs"]
+thetimes.com##div.article-topics
+thetimes.com##div.tm-related-articles
+thetimes.com##div.article-promoted-content
+thetimes.com##div.article-comments
+thetimes.com##div#zephr__subscription_offer_modal
+thetimes.com##div.article-previous-next
+thetimes.com##footer
 
 ! theguardian.com
 
