@@ -300,6 +300,14 @@ foreignaffairs.com##section.article__most_read
 ! hbr.org
 
 ! technologyreview.com
+technologyreview.com##footer[class*="footer__wrapper"]
+technologyreview.com##div[class*="feedSection__container"]
+technologyreview.com##div[class*="adSection__ad_slot"]
+technologyreview.com##div[class*="sponsoredStory__container"]
+technologyreview.com##aside[class*="related__wrap"]
+technologyreview.com##div[class*="contentFooter__social"]
+technologyreview.com##div[class*="deepDive__wrapper"]
+technologyreview.com##div[class*="footerAd__wrapper"]
 
 ! monocle.com
 
