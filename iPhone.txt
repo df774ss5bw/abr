@@ -204,6 +204,16 @@ ft.com##button.article-print
 ft.com##div.n-layout__row--footer
 
 ! bloomberg.com
+www.bloomberg.com##section[data-component="UserTopicStories"]
+www.bloomberg.com##div[data-component="footer"]
+www.bloomberg.com##div[data-component="social-share"]
+www.bloomberg.com##div[data-component="security-list"]
+www.bloomberg.com##section[class*="RichtextMedia_articleTable"]
+www.bloomberg.com##button[data-component="floating-copy-link"]
+www.bloomberg.com##div[class*="AuthorBio_authorList"]
+www.bloomberg.com##div[class*="BasicContent_shareBottom"]
+www.bloomberg.com##div[class*="BasicContent_bookmarkBottom"]
+www.bloomberg.com##div[class*="BasicContent_shareFeedbackWrapper"]
 
 ! wsj.com
 
