@@ -224,6 +224,9 @@ wsj.com##nav-hat
 wsj.com##div#lazy-load-footer
 wsj.com##div[data-testid="utility-wrapper"]
 wsj.com##div[aria-label="What To Read Next"]
+wsj.com##div[data-testid="ad-container"]
+wsj.com##div[aria-label="Conversation"]
+wsj.com##footer[aria-label="Primary"]
 
 ! zerohedge.com
 
