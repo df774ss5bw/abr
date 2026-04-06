@@ -220,7 +220,6 @@ www.bloomberg.com##div[class*="BasicContent_bookmarkBottom"]
 www.bloomberg.com##div[class*="BasicContent_shareFeedbackWrapper"]
 
 ! wsj.com
-wsj.com##nav-hat
 wsj.com##div#lazy-load-footer
 wsj.com##div[data-testid="utility-wrapper"]
 wsj.com##div[aria-label="What To Read Next"]
