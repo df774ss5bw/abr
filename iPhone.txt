@@ -318,6 +318,13 @@ technologyreview.com##div[class*="footerAd__wrapper"]
 ! aeon.co
 
 ! adformatie.nl
+adformatie.nl##div[class*="b-site-header__row"]
+adformatie.nl##nav[aria-label="Main menu"]
+adformatie.nl##div[class*="c-ad-slot"]
+adformatie.nl##div:has(> h3:has-text(Nieuwe vacatures))
+adformatie.nl##div:has(> div[class*="b-newsletter-subscribe"])
+adformatie.nl##footer[class*="b-site-footer"]
+adformatie.nl##div:has(> h2:has-text(Gerelateerd))
 
 ! fonkmagazine.nl
 
