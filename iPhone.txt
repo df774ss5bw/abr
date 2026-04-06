@@ -231,6 +231,7 @@ wsj.com##div[aria-label="Conversation"]
 wsj.com##footer[aria-label="Primary"]
 wsj.com##div[style="min-height: 440px;"]
 wsj.com##div[style="min-height:440px"]
+wsj.com##nav[data-testid="utility-nav"]
 wsj.com##div[style="min-height: 320px;"]
 
 ! zerohedge.com
