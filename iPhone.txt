@@ -141,6 +141,8 @@ nos.nl##div[data-sentry-element="WideContainer"]
 nos.nl##footer
 
 ! at5.nl
+at5.nl##nav[class*="header_region"]
+at5.nl##div[class*="article_labels"]
 at5.nl##section[class*="Advertisement"]
 at5.nl##section#themes
 at5.nl##footer
