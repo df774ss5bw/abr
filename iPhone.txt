@@ -183,6 +183,7 @@ fd.nl##section.social-buttons
 fd.nl##section.fd-gift-block
 fd.nl##section.fd-article-topics
 fd.nl##div[class*="article-aside-content"]
+fd.nl##div[class*="fd-related-articles"]
 
 ! ft.com
 ft.com##footer#site-footer
