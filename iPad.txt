@@ -110,7 +110,8 @@ thetimes.com##div#zephr__subscription_offer_modal
 thetimes.com##div.article-previous-next
 thetimes.com##footer
 thetimes.com##div:has(> span:has-text(PROMOTED CONTENT))
-thetimes.com##section:has(h3:has-text(Today's puzzles))
+thetimes.com##section:has(a[href="https://www.thetimes.com/puzzles"])
+thetimes.com##footer.GlobalFooter
 
 ! theguardian.com
 
