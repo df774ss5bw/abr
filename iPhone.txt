@@ -207,6 +207,9 @@ nytimes.com##section#masthead-bar-one
 ! thetimes.com
 thetimes.com##div[data-layout="key-moments"]
 thetimes.com##p:has(a[href*="link.thetimes.co.uk/join"])
+thetimes.com##div:has(> span:has-text(PROMOTED CONTENT))
+thetimes.com##footer.GlobalFooter
+thetimes.com##section:has(a[href="https://www.thetimes.com/puzzles"])
 
 ! theguardian.com
 
