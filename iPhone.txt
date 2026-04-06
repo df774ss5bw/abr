@@ -71,6 +71,7 @@ volkskrant.nl##section[data-test-id="automated-recommendations"]
 volkskrant.nl##div:has(> div > button[title="Delen via Facebook"])
 volkskrant.nl##nav[aria-label="Hoofd subnavigatie"]
 volkskrant.nl##div[data-advert-orig-id]
+volkskrant.nl##div[data-article-element-index]:has(> aside)
 
 ! trouw.nl
 trouw.nl##div.app-bottom
