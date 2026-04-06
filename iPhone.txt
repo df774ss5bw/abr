@@ -287,6 +287,10 @@ theguardian.com##h2:has-text(Most viewed)
 ! economist.com
 
 ! foreignaffairs.com
+foreignaffairs.com##footer.footer
+foreignaffairs.com##div.article-tools
+foreignaffairs.com##section.article__related
+foreignaffairs.com##section.article__most_read
 
 ! hbr.org
 
