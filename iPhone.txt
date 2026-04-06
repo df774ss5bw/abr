@@ -242,7 +242,7 @@ zerohedge.com##div.article-bottom.adv
 zerohedge.com##div[class*="BlockComments"]
 
 ! nytimes.com
-nytimes.com##div:has([data-testid="StandardAd"])
+nytimes.com##div[data-testid="StandardAd"]
 nytimes.com##section[data-testid="inline-interactive"]:has-text(Got a Tip?)
 nytimes.com##div[id*="story-ad"]
 nytimes.com##div[data-testid="region"]#NYT_ABOVE_MAIN_CONTENT_REGION
