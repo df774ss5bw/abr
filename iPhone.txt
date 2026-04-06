@@ -247,12 +247,19 @@ zerohedge.com##div.article-bottom.adv
 zerohedge.com##div[class*="BlockComments"]
 
 ! nytimes.com
-nytimes.com##div[data-testid="StandardAd"]
+nytimes.com##div div div div[data-testid="StandardAd"]
 nytimes.com##section[data-testid="inline-interactive"]:has-text(Got a Tip?)
 nytimes.com##div[id*="story-ad"]
 nytimes.com##div[data-testid="region"]#NYT_ABOVE_MAIN_CONTENT_REGION
 nytimes.com##div.related-links-block
 nytimes.com##section#masthead-bar-one
+nytimes.com##footer[role="contentinfo"]
+nytimes.com##nav[data-testid="site-index"]
+nytimes.com##div:has(> div > audio[src*="narrated-articles"])
+nytimes.com##div[data-testid="share-tools"]
+nytimes.com##div[id="NYT_MAIN_CONTENT_1_REGION"]
+nytimes.com##section[role="complementary"]
+nytimes.com##section[data-testid="recirculation"]
 
 ! washingtonpost.com
 
