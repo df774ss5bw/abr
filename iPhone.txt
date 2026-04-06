@@ -277,6 +277,8 @@ theguardian.com##gu-island[name="ShareButton"]
 theguardian.com##figure[data-spacefinder-role="richLink"]
 theguardian.com##gu-island[name="SlotBodyEnd"]
 theguardian.com##gu-island[name="OnwardsUpper"]
+theguardian.com##div:has(> span:has-text(Explore more on these topics))
+theguardian.com##div[class*="content-footer"]
 
 ! scmp.com
 
