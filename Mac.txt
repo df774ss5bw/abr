@@ -50,7 +50,7 @@ trouw.nl##section[data-section_name="luister"]
 trouw.nl##section[data-section_name="cartoons"]
 trouw.nl##section[data-section_name="puzzels"]
 trouw.nl##div[role="toolbar"][aria-label="Bewaar of deel dit artikel"]
-trouw.nl##div:has(button[title="Geef uw feedback over de site"])
+trouw.nl##div:has(> svg + span > button[title="Geef uw feedback over de site"])
 trouw.nl##section[data-test-id="editorial-tips"]
 trouw.nl##div:has(> div > p:has-text(Lees hier alle artikelen over dit thema))
 trouw.nl##aside[data-test-id="temptation-ARTICLE_BOTTOM"]
