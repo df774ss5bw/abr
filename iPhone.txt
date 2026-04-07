@@ -20,6 +20,7 @@ nrc.nl##div.dmt-header__util-bar
 nrc.nl##a.dmt-article-suggestion
 nrc.nl##footer
 nrc.nl##dmt-util-bar
+nrc.nl##div[class="header__buttons"]
 
 ! ad.nl
 ad.nl##div[data-temptation-position="OORTJE"]
