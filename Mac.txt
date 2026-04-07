@@ -14,8 +14,20 @@ telegraaf.nl##div[class*="AsideRecirculation"]
 telegraaf.nl##div[class*="htmlEmbed"]
 telegraaf.nl##section[id*="Voor-jou"]
 telegraaf.nl##div[class*="comment-block"]
+telegraaf.nl##div[class*="article-hero-block_actions"]
+telegraaf.nl##nav[class*="header_navigationItems"]
+telegraaf.nl##nav[class*="header_itemsContainer"]
+telegraaf.nl##div[data-testid="article-tags"]
 
 ! nrc.nl
+nrc.nl##div[class="header__buttons"]
+nrc.nl##div[data-selections-bar]
+nrc.nl##div[data-track-block-click="Nieuwste afleveringen NRC-podcasts"]
+nrc.nl##footer[class="footer"]
+nrc.nl##div[class="dmt-header__util-bar"]
+nrc.nl##a.dmt-article-suggestion
+nrc.nl##div[data-de-article-end]
+nrc.nl##dmt-util-bar[data-paywall-belowarticle]
 
 ! ad.nl
 ad.nl##div[aria-label="onbekende sectie"]
@@ -73,6 +85,16 @@ trouw.nl##div[id="mid1"][tabindex="-1"][aria-hidden="true"]
 trouw.nl##footer
 
 ! parool.nl
+parool.nl##div[class*="app-navigation__sections-wrapper"]
+parool.nl##a[class*="header-menuitem--search"]
+parool.nl##a[class*="header-menuitem--dekrant"]
+parool.nl##section[data-section_name="English"]
+parool.nl##section[data-section_name="Sport"]
+parool.nl##section[data-section_name="Luister"]
+parool.nl##section[data-section_name="Puzzels"]
+parool.nl##section[data-section_name="Over Het Parool"]
+parool.nl##section[data-section_name="Strips"]
+parool.nl##div[data-temptation-position="TOP_OF_FOOTER"]
 parool.nl##div[data-pexi-template="DEF_ENGAGE_NEWSLETTER_OPTIN_ARTICLE_INLINE_MIDDLE_HP"]
 parool.nl##div[data-test="position-before-list-teaser"]
 parool.nl##div[class*="app-editor-tip"]
@@ -140,6 +162,7 @@ ft.com##a[id="o-comments-count"]
 ft.com##button[class="article-print"]
 ft.com##button[data-component-id="myft-follow-plus-instant-alerts"]
 ft.com##nav[id="o-header-nav-desktop"]
+ft.com##div[class="o-header__top-wrapper"]
 
 ! bloomberg.com
 www.bloomberg.com##div[data-component="grid-module"]
