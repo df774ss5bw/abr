@@ -43,18 +43,21 @@ volkskrant.nl##section[data-test-id="automated-recommendations"]
 volkskrant.nl##div[tabindex="-1"][aria-hidden="true"]
 
 ! trouw.nl
+trouw.nl##nav[class*="app-navigation"]
 trouw.nl##div[class*="app-navigation__sections-wrapper"]
 trouw.nl##div[class="oortje-wrapper"]
 trouw.nl##section[data-section_name="luister"]
 trouw.nl##section[data-section_name="cartoons"]
 trouw.nl##section[data-section_name="puzzels"]
 trouw.nl##div[role="toolbar"][aria-label="Bewaar of deel dit artikel"]
-trouw.nl##div:has(> span:has-text(Help ons door uw ervaring te delen))
+trouw.nl##div:has(button[title="Geef uw feedback over de site"])
 trouw.nl##section[data-test-id="editorial-tips"]
-trouw.nl##div:has(> p:has-text(Lees hier alle artikelen over dit thema))
+trouw.nl##div:has(> div > p:has-text(Lees hier alle artikelen over dit thema))
 trouw.nl##aside[data-test-id="temptation-ARTICLE_BOTTOM"]
 trouw.nl##div:has(> button[title="Delen via Facebook"])
-trouw.nl##div[class*="mid1-container"]
+trouw.nl##div:has(> div[class*="mid1-container"])
+trouw.nl##aside[data-test-id="temptation-PAGE_BOTTOM"]
+trouw.nl##footer
 trouw.nl##div[data-pexi-template="DEF_ENGAGE_NEWSLETTER_OPTIN_ARTICLE_INLINE_MIDDLE_TR"]
 trouw.nl##div[tabindex="-1"][id^="article_paragraph"]
 trouw.nl##div[class*="app-editor-tip"]
