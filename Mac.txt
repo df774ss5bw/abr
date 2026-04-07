@@ -132,9 +132,14 @@ ft.com##div[class*="magnet-cta"]
 ft.com##div[class*="article-tools"]
 ft.com##div[data-component="article-rhr"]
 ft.com##div[data-component="onward-journey__bottom"]
+ft.com##section:has(> div > header[id="explore-more-events-from-the-ft"])
 ft.com##div[class*="article-content__concepts"]
 ft.com##div[class*="comments-container"]
 ft.com##div[class*="comments-rhr"]
+ft.com##a[id="o-comments-count"]
+ft.com##button[class="article-print"]
+ft.com##button[data-component-id="myft-follow-plus-instant-alerts"]
+ft.com##nav[id="o-header-nav-desktop"]
 
 ! bloomberg.com
 www.bloomberg.com##div[data-component="grid-module"]
