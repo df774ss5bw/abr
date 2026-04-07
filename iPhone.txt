@@ -19,6 +19,7 @@ telegraaf.nl##div[class*="article-hero-block_actions"]
 nrc.nl##div.dmt-header__util-bar
 nrc.nl##a.dmt-article-suggestion
 nrc.nl##footer
+nrc.nl##dmt-util-bar
 
 ! ad.nl
 ad.nl##div[data-temptation-position="OORTJE"]
@@ -73,6 +74,8 @@ volkskrant.nl##nav[aria-label="Hoofd subnavigatie"]
 volkskrant.nl##div[data-advert-orig-id]
 volkskrant.nl##div[data-article-element-index]:has(> aside)
 volkskrant.nl##div[data-article-element-index]:has(iframe)
+volkskrant.nl##div[class*="block-readon"]
+volkskrant.nl##div[class="navigation__menu"]
 
 ! trouw.nl
 trouw.nl##div.app-bottom
@@ -145,6 +148,7 @@ nos.nl##div[class*="Frontpage_rightContent"]
 nos.nl##div[data-tracking*="nestId1=bekijk-ook"]
 nos.nl##div[data-sentry-element="MetaFooterContainer"]
 nos.nl##div[data-sentry-element="WideContainer"]
+nos.nl##div[data-sentry-component="SubNavBar"]
 nos.nl##footer
 
 ! at5.nl
@@ -158,6 +162,8 @@ at5.nl##div[class*="article_share"]
 at5.nl##div[class*="childrenGrid"]
 at5.nl##div[class*="article-block_articles"]
 at5.nl##div[class*="article-block_info"]
+at5.nl##li[class*="navigation_item"]
+at5.nl##div[class*="Tabbar_container"]
 
 ! geenstijl.nl
 geenstijl.nl##article:has-text(Ingezonden mededeling)
