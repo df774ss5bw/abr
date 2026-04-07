@@ -50,6 +50,7 @@ ad.nl##div[data-content-type="VIDEO_NEWS"]
 ad.nl##aside[data-testid="column-right"]
 ad.nl##div[data-content-type="SUBHEADER"]:has-text(Lees meer)
 ad.nl##div.football-sportcenter
+ad.nl##nav[aria-label="secties"]
 
 ! volkskrant.nl
 volkskrant.nl##div.oortje-wrapper[data-test="position-before-list-teaser"]
@@ -312,6 +313,16 @@ foreignaffairs.com##section.article__related
 foreignaffairs.com##section.article__most_read
 
 ! hbr.org
+hbr.org##div[class*="primary-ad-container"]
+hbr.org##div[data-testid="mobile-ad-container"]
+hbr.org##a[data-analytics="share-on-x"]
+hbr.org##button[data-analytics="share-on-facebook"]
+hbr.org##button[data-analytics="share-on-linkedin"]
+hbr.org##button[data-analytics="open-save-flyout"]
+hbr.org##div[class*="bottom-related-topics"]
+hbr.org##div[class*="recommended"]
+hbr.org##section[class*="PartnerCenter-module"]
+hbr.org##footer[class*="Footer-module"]
 
 ! technologyreview.com
 technologyreview.com##footer[class*="footer__wrapper"]
@@ -324,6 +335,11 @@ technologyreview.com##div[class*="deepDive__wrapper"]
 technologyreview.com##div[class*="footerAd__wrapper"]
 
 ! monocle.com
+monocle.com##section[class*="c-content-collection--radio-background"]
+monocle.com##div[class*="wp-block-monocle-newsletter-signup"]
+monocle.com##footer[id="site-footer"]
+monocle.com##div[class="c-social-sharing"]
+monocle.com##footer[class="o-article__footer"]
 
 ! nature.com
 
