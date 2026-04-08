@@ -2,7 +2,7 @@
 ! ======
 
 ! telegraaf.nl
-telegraaf.nl##div[class^="html-embed_htmlEmbed"]:has(> #formcontainer)
+telegraaf.nl##div[class*="htmlEmbed"]
 telegraaf.nl##a[class*="RelatedTeaser"]
 telegraaf.nl##section[data-testid="storyblock-type-LiveSportsBarGroup"]
 telegraaf.nl##section[id^="news-HtmlGroup"]
@@ -21,6 +21,8 @@ nrc.nl##a.dmt-article-suggestion
 nrc.nl##footer
 nrc.nl##dmt-util-bar
 nrc.nl##div[class="header__buttons"]
+nrc.nl##button[data-testid="navigation-menu"]
+nrc.nl##button[data-toggle="nav-sidebar"]
 
 ! ad.nl
 ad.nl##div[data-temptation-position="OORTJE"]
@@ -51,6 +53,10 @@ ad.nl##aside[data-testid="column-right"]
 ad.nl##div[data-content-type="SUBHEADER"]:has-text(Lees meer)
 ad.nl##div.football-sportcenter
 ad.nl##nav[aria-label="secties"]
+ad.nl##button#mobile-nav-trigger
+ad.nl##button#focus-trap-toggle
+ad.nl##div.marketing-position
+ad.nl##section:has(> ul > li > a[data-type="pill_bar"])
 
 ! volkskrant.nl
 volkskrant.nl##div.oortje-wrapper[data-test="position-before-list-teaser"]
