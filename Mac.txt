@@ -143,6 +143,15 @@ fd.nl##div[class*="fd-read-more"]
 fd.nl##section[class*="fd-article-topics"]
 fd.nl##section[class*="social-buttons"]
 fd.nl##div[class*="fd-related-articles"]
+fd.nl##section.fd-gift-block
+fd.nl##a[data-ga-label="/mijn-nieuws"]
+fd.nl##button.stock-menu-button
+fd.nl##a[data-ga-label="/krant"]
+fd.nl##a[data-ga-label="/podcasts"]
+fd.nl##a[data-ga-label="/persoonlijk"]
+fd.nl##a[data-ga-label="/boeken"]
+fd.nl##button[data-ga-label="hamburger"]
+fd.nl##li.show-search-highlight
 
 ! ft.com
 ft.com##div[class*="slot-wrapper"]
