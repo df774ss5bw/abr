@@ -151,6 +151,7 @@ parool.nl##a[title="Naar de zoekpagina"]
 parool.nl##div[data-article-element-index]:has(iframe[title="Parool Misdaadpodcast"])
 parool.nl##div[data-article-element-index]:has(div[title="Aanmelden voor nieuwsbrief"])
 parool.nl##div[data-article-element-index]:has(> aside)
+parool.nl##div[data-article-element-index]:has(iframe)
 
 ! bd.nl
 
