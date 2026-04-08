@@ -152,6 +152,7 @@ fd.nl##a[data-ga-label="/persoonlijk"]
 fd.nl##a[data-ga-label="/boeken"]
 fd.nl##button[data-ga-label="hamburger"]
 fd.nl##li.show-search-highlight
+fd.nl##a[data-ga-label="/net-binnen"]
 
 ! ft.com
 ft.com##div[class*="slot-wrapper"]
