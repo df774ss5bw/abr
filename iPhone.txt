@@ -86,6 +86,9 @@ volkskrant.nl##div[class*="block-readon"]
 volkskrant.nl##div[class="navigation__menu"]
 
 ! trouw.nl
+trouw.nl##a[data-type="header_menu"][data-text="zoeken"]
+trouw.nl##a[title="Naar de zoekpagina"]
+trouw.nl##div[data-advert-slot-state="received"]
 trouw.nl##div.app-bottom
 trouw.nl##div.app-editor-tip
 trouw.nl##div.app-footer
@@ -142,6 +145,10 @@ parool.nl##nav:has(a[data-type="bottom_menu"])
 parool.nl##aside[data-test-id="temptation-PAGE_BOTTOM"]
 parool.nl##iframe[title="Parool Podcast"]
 parool.nl##p:has-text(Luister ook naar de Parool Podcast)
+parool.nl##a[data-type="header_menu"][data-text="zoeken"]
+parool.nl##a[title="Naar de zoekpagina"]
+parool.nl##div[data-article-element-index]:has(iframe[title="Parool Misdaadpodcast"])
+parool.nl##div[data-article-element-index]:has(div[title="Aanmelden voor nieuwsbrief"])
 parool.nl##div[data-article-element-index]:has(> aside)
 
 ! bd.nl
@@ -207,6 +214,8 @@ fd.nl##div[class*="article-aside-content"]
 fd.nl##div[class*="fd-related-articles"]
 
 ! ft.com
+ft.com##div.n-layout__header-before
+ft.com##nav#o-header-nav-mobile
 ft.com##footer#site-footer
 ft.com##li.o-share__action[data-share="twitter"]
 ft.com##li.o-share__action[data-share="facebook"]
