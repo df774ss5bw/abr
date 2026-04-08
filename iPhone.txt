@@ -84,6 +84,7 @@ volkskrant.nl##div[data-article-element-index]:has(> aside)
 volkskrant.nl##div[data-article-element-index]:has(iframe)
 volkskrant.nl##div[class*="block-readon"]
 volkskrant.nl##div[class="navigation__menu"]
+volkskrant.nl##a[title="Naar de zoekpagina"]
 
 ! trouw.nl
 trouw.nl##a[data-type="header_menu"][data-text="zoeken"]
@@ -164,6 +165,8 @@ nos.nl##div[data-tracking*="nestId1=bekijk-ook"]
 nos.nl##div[data-sentry-element="MetaFooterContainer"]
 nos.nl##div[data-sentry-element="WideContainer"]
 nos.nl##div[data-sentry-component="SubNavBar"]
+nos.nl##ul[data-sentry-element="MainMenuItems"]
+nos.nl##button[aria-controls="navigation-menu"]
 nos.nl##footer
 
 ! at5.nl
@@ -179,6 +182,7 @@ at5.nl##div[class*="article-block_articles"]
 at5.nl##div[class*="article-block_info"]
 at5.nl##li[class*="navigation_item"]
 at5.nl##div[class*="Tabbar_container"]
+at5.nl##section[class*="header_buttons"]
 
 ! geenstijl.nl
 geenstijl.nl##article:has-text(Ingezonden mededeling)
