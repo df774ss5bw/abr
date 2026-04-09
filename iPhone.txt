@@ -14,6 +14,7 @@ telegraaf.nl##div[id^="ad_pageend"]
 telegraaf.nl##div[id^="ad_inline"]
 telegraaf.nl##div[id^="ad_storyblock"]
 telegraaf.nl##div[class*="article-hero-block_actions"]
+telegraaf.nl##button[data-testid="navigation-menu"]
 
 ! nrc.nl
 nrc.nl##div.dmt-header__util-bar
