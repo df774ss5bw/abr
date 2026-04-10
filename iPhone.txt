@@ -151,7 +151,6 @@ parool.nl##a[data-type="header_menu"][data-text="zoeken"]
 parool.nl##a[title="Naar de zoekpagina"]
 parool.nl##div[data-article-element-index]:has(iframe[title="Parool Misdaadpodcast"])
 parool.nl##div[data-article-element-index]:has(div[title="Aanmelden voor nieuwsbrief"])
-parool.nl##div[data-article-element-index]:has(> aside)
 parool.nl##div[data-article-element-index]:has(iframe)
 
 ! bd.nl
@@ -238,6 +237,7 @@ ft.com##form[data-myft-ui-variant="followPlusInstantAlerts"]
 ft.com##a#o-comments-count
 ft.com##button.article-print
 ft.com##div.n-layout__row--footer
+ft.com##div[data-trackable="share | top"]
 
 ! bloomberg.com
 www.bloomberg.com##section[data-component="UserTopicStories"]
@@ -250,6 +250,10 @@ www.bloomberg.com##div[class*="AuthorBio_authorList"]
 www.bloomberg.com##div[class*="BasicContent_shareBottom"]
 www.bloomberg.com##div[class*="BasicContent_bookmarkBottom"]
 www.bloomberg.com##div[class*="BasicContent_shareFeedbackWrapper"]
+www.bloomberg.com##div[data-component="contextual-nav-container"]
+www.bloomberg.com##div[class*="BasicContent_bookmarkSpeech"]
+www.bloomberg.com##p[data-component="paragraph"]:has-text(Read More:)
+www.bloomberg.com##div[class*="BasicLede_shareBookmarkMobile"]
 
 ! wsj.com
 wsj.com##div#lazy-load-footer
@@ -262,6 +266,11 @@ wsj.com##div[style="min-height: 440px;"]
 wsj.com##div[style="min-height:440px"]
 wsj.com##nav[data-testid="utility-nav"]
 wsj.com##div[style="min-height: 320px;"]
+wsj.com##nav-hat
+wsj.com##div[class*="MarketDataStripWrapper"]
+wsj.com##div[data-sub_type="series-navigation"]
+wsj.com##footer[data-testid="author-module-follow-links"]
+wsj.com##div[class*="HeaderContainer"]
 
 ! zerohedge.com
 zerohedge.com##footer
