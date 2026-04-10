@@ -285,7 +285,7 @@ zerohedge.com##div.article-bottom.adv
 zerohedge.com##div[class*="BlockComments"]
 
 ! nytimes.com
-nytimes.com##div div div div[data-testid="StandardAd"]
+nytimes.com##div:has(> div > div > div > div[data-testid="StandardAd"])
 nytimes.com##section[data-testid="inline-interactive"]:has-text(Got a Tip?)
 nytimes.com##div[id*="story-ad"]
 nytimes.com##div[data-testid="region"]#NYT_ABOVE_MAIN_CONTENT_REGION
@@ -298,6 +298,8 @@ nytimes.com##div[data-testid="share-tools"]
 nytimes.com##div[id="NYT_MAIN_CONTENT_1_REGION"]
 nytimes.com##section[role="complementary"]
 nytimes.com##section[data-testid="recirculation"]
+nytimes.com##div[data-testid="floating-button"]
+nytimes.com##div.bottom-of-article
 
 ! washingtonpost.com
 
